@@ -7,44 +7,47 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorzeh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=juniorzeh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorzeh&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorzeh&layout=compact&langs_count=6&theme=tokyonight" />
 
 ---
 
 ## 🖥️ Back-end
 
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![CSharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="30"/>
 
 ---
 
 ## 🎨 Front-end
 
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/>
 
 ---
 
 ## 🛠️ Ferramentas
 
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
-![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="30"/>
 
 ---
 
 ## 📫 Onde me encontrar
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umzehjunior)
+<a href="https://www.instagram.com/umzehjunior">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-pereira-junior/)
+<a href="https://www.linkedin.com/in/josé-pereira-junior/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
 ✨ *Sempre em busca de evolução, novos desafios e oportunidades na área de tecnologia.*
-

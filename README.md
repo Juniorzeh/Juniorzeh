@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Junior Zeh!
+# 👋 Olá, eu sou o Junior!
 
 💻 Desenvolvedor Full Stack  
 🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções eficientes.

@@ -7,9 +7,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=juniorzeh&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juniorzeh&theme=tokyonight" />
 
-<img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=juniorzeh&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juniorzeh&theme=tokyonight" />
+
 
 ---
 

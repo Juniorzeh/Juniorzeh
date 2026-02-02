@@ -7,9 +7,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=juniorzeh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=juniorzeh&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorzeh&layout=compact&langs_count=6&theme=tokyonight" />
+<img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=juniorzeh&layout=compact&theme=tokyonight" />
 
 ---
 
